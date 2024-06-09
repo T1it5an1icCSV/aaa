@@ -1,0 +1,15 @@
+{
+    "media":[
+        {
+            "name":"MACBOOK AIR M2",
+            "desxription":"lorem ipsum",
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSuhl7YRnMMknaQcC7Szgd1yB-Va9deFOee0Mwncxe8Ob-KYbyPbuKanL50FmB_UEyII&usqp=CAU"
+        },
+        {
+            "name":"IPAD PRO 2022",
+            "desxription":"lorem ipsum",
+            "url":"https://my-apple-store.ru/wa-data/public/shop/products/20/38/13820/images/23719/23719.500@2x.jpg",
+            "width":"250px"
+        }
+    ]
+}
