@@ -1,0 +1,137 @@
+{
+  "cart": [
+    {
+      "myId": "1",
+      "id": "1",
+      "name": "Смартфон Samsung Galaxy Z Fold6 1 ТБ",
+      "description": "Samsung Galaxy Z Fold6 – это складной смартфон с улучшенным дизайном, поддержкой S Pen, мощным процессором Snapdragon 8 Gen3, продвинутой камерой с алгоритмом ProVisual, длительным временем автономной работы и возможностями Galaxy AI.",
+      "category": "electronics",
+      "price": "229990",
+      "url": "https://static.galaxystore.ru/upload/iblock/c63/0svi73q32iarn24z03vbek0xqn42izc6.jpg"
+    },
+    {
+      "myId": "2",
+      "id": "2",
+      "name": "Холодильник Samsung Bespoke многодверный RF9000AC",
+      "description": "Стильный холодильник с глянцевым стеклянным покрытием, автоматической системой производства льда, отдельным отсеком FlexZone™ для разных продуктов и встроенным дезодорирующим фильтром для свежести воздуха.",
+      "category": "appliance",
+      "price": "389990",
+      "url": "https://static.galaxystore.ru/upload/iblock/812/9yp0uq7uk8v6fxt09f7g33yz9q20bns0.jpg"
+    },
+    {
+      "myId": "3",
+      "id": "3",
+      "name": "Стиральная машина Samsung WW60J32G0PWOLD",
+      "description": "Стиральная машина с цифровым инверторным мотором для экономии энергии и снижения шума, функцией Eco Drum Clean для гигиенической очистки барабана, паровой стиркой для удаления загрязнений и бактерий, опцией Super Rinse+ для тщательного ополаскивания, Diamond барабаном для бережной стирки, программой Quick Wash для быстрой стирки и функцией Volt Control для защиты от скачков напряжения.",
+      "category": "appliance",
+      "price": "59990",
+      "url": "https://static.galaxystore.ru/upload/iblock/205/q66302t1n8v0363b81g6108l3y52x78w.jpg"
+    },
+    {
+      "myId": "4",
+      "id": "4",
+      "name": "Ноутбук Samsung Galaxy Book4 360 15,6 Ultra 7 16ГБ/1ТБ",
+      "description": "Мощный и универсальный ноутбук с 15,6-дюймовым сенсорным экраном, 16 ГБ оперативной памяти и 1 ТБ накопителем, позволяющий работать, развлекаться и создавать контент с комфортом",
+      "category": "PC",
+      "price": "219990",
+      "url": "https://static.galaxystore.ru/upload/iblock/b16/kpsvjdhbl3pfa1l1gta2gztiuevbbmxn.jpg"
+    },
+    {
+      "myId": "5",
+      "id": "5",
+      "name": "Встраиваемая микроволновая печь Samsung с грилем MG22M8054AK/BW 22 л",
+      "description": "Функции микроволновой печи: разогрев с грилем для румяной корочки, сохранение тепла для готовых блюд, быстрая разморозка для сохранения свежести продуктов, режим очистки от запахов, прочное и легко очищаемое БИОкерамическое покрытие, встроенные рецепты национальной кухни.",
+      "category": "appliance",
+      "price": "39990",
+      "url": "https://static.galaxystore.ru/upload/iblock/100/100196c093bba6d742af03fa6970a875.jpg"
+    },
+    {
+      "myId": "6",
+      "id": "6",
+      "name": "Пылесос Samsung беспроводной Bespoke Jet VS9700 280 Вт",
+      "description": "Беспроводной пылесос Samsung Bespoke Jet VS9700 с мощным двигателем HexaJet, многоуровневой системой фильтрации, интеллектуальным распознаванием покрытий, сертификацией UL и временем автономной работы до 100 минут. Включает в себя универсальную станцию для зарядки и гигиенической очистки.",
+      "category": "appliance",
+      "price": "99990",
+      "url": "https://static.galaxystore.ru/upload/iblock/c72/07t2oy6l1zxqsq15vlpio8fvisdkl1jr.jpg"
+    },
+    {
+      "myId": "7",
+      "id": "7",
+      "name": "Кондиционер Samsung AR12AXAAAWKXER с технологией WindFree™ и фильтром PM 1.0, 12000 БТЕ/ч",
+      "description": "Кондиционер Samsung WindFree™ с тихим и равномерным охлаждением без прямого потока воздуха. Включает AI Auto Cooling для автоматического выбора режима, фильтр PM1.0 для очистки воздуха от пыли, датчик движения для экономии энергии, широкий охват охлаждения, удаленное управление через приложение SmartThings, автоматическую очистку теплообменника и тихий режим работы компрессора.",
+      "category": "appliance",
+      "price": "49990",
+      "url": "https://static.galaxystore.ru/upload/resize_cache/iblock/d3c/440_440_1/d3c5dbeacfcf70ccdc7aad039716add8.jpg"
+    },
+    {
+      "myId": "9",
+      "id": "9",
+      "name": "Смартфон Samsung Galaxy Z Fold6 256 ГБ",
+      "description": "Samsung Galaxy Z Fold6 - это усовершенствованный складной смартфон с более тонким и легким корпусом, поддержкой S Pen, мощным процессором Snapdragon 8 Gen3, продвинутой камерой с алгоритмом ProVisual, длительным временем автономной работы и расширенными возможностями Galaxy AI.",
+      "category": "electronics",
+      "price": "189990",
+      "url": "https://static.galaxystore.ru/upload/iblock/f11/jry6qznkjrepheh1e0d2c65df3lyedx2.jpg"
+    },
+    {
+      "myId": "10",
+      "id": "10",
+      "name": "Беспроводные наушники MARSHALL Motif II A.N.C. TWS",
+      "description": "Беспроводные наушники Marshall MOTIF II A.N.C. с высококачественным звуком, активным шумоподавлением, комфортным ношением, быстрой зарядкой и продолжительной автономной работой. Обладают интуитивным сенсорным управлением, совместимостью с Bluetooth LE Audio и стильным дизайном.",
+      "category": "audio",
+      "price": "28990",
+      "url": "https://static.galaxystore.ru/upload/resize_cache/iblock/ba2/440_440_1/ly1uahuh1ltm4hx179bg5m5x7zaoeyfg.png"
+    }
+  ],
+  "overlays": [
+    {
+      "id": "6",
+      "myId": "6",
+      "name": "Пылесос Samsung беспроводной Bespoke Jet VS9700 280 Вт",
+      "description": "Беспроводной пылесос Samsung Bespoke Jet VS9700 с мощным двигателем HexaJet, многоуровневой системой фильтрации, интеллектуальным распознаванием покрытий, сертификацией UL и временем автономной работы до 100 минут. Включает в себя универсальную станцию для зарядки и гигиенической очистки.",
+      "price": "99990",
+      "url": "https://static.galaxystore.ru/upload/iblock/c72/07t2oy6l1zxqsq15vlpio8fvisdkl1jr.jpg"
+    },
+    {
+      "id": "4",
+      "myId": "4",
+      "name": "Ноутбук Samsung Galaxy Book4 360 15,6 Ultra 7 16ГБ/1ТБ",
+      "description": "Мощный и универсальный ноутбук с 15,6-дюймовым сенсорным экраном, 16 ГБ оперативной памяти и 1 ТБ накопителем, позволяющий работать, развлекаться и создавать контент с комфортом",
+      "price": "219990",
+      "url": "https://static.galaxystore.ru/upload/iblock/b16/kpsvjdhbl3pfa1l1gta2gztiuevbbmxn.jpg"
+    },
+    {
+      "id": "10",
+      "myId": "10",
+      "name": "Беспроводные наушники MARSHALL Motif II A.N.C. TWS",
+      "description": "Беспроводные наушники Marshall MOTIF II A.N.C. с высококачественным звуком, активным шумоподавлением, комфортным ношением, быстрой зарядкой и продолжительной автономной работой. Обладают интуитивным сенсорным управлением, совместимостью с Bluetooth LE Audio и стильным дизайном.",
+      "price": "28990",
+      "url": "https://static.galaxystore.ru/upload/resize_cache/iblock/ba2/440_440_1/ly1uahuh1ltm4hx179bg5m5x7zaoeyfg.png"
+    }
+  ],
+  "favorite": [
+    {
+      "id": "6",
+      "myId": "6",
+      "name": "Пылесос Samsung беспроводной Bespoke Jet VS9700 280 Вт",
+      "description": "Беспроводной пылесос Samsung Bespoke Jet VS9700 с мощным двигателем HexaJet, многоуровневой системой фильтрации, интеллектуальным распознаванием покрытий, сертификацией UL и временем автономной работы до 100 минут. Включает в себя универсальную станцию для зарядки и гигиенической очистки.",
+      "price": "99990",
+      "url": "https://static.galaxystore.ru/upload/iblock/c72/07t2oy6l1zxqsq15vlpio8fvisdkl1jr.jpg"
+    },
+    {
+      "id": "10",
+      "myId": "10",
+      "name": "Беспроводные наушники MARSHALL Motif II A.N.C. TWS",
+      "description": "Беспроводные наушники Marshall MOTIF II A.N.C. с высококачественным звуком, активным шумоподавлением, комфортным ношением, быстрой зарядкой и продолжительной автономной работой. Обладают интуитивным сенсорным управлением, совместимостью с Bluetooth LE Audio и стильным дизайном.",
+      "price": "28990",
+      "url": "https://static.galaxystore.ru/upload/resize_cache/iblock/ba2/440_440_1/ly1uahuh1ltm4hx179bg5m5x7zaoeyfg.png"
+    },
+    {
+      "id": "1",
+      "myId": "1",
+      "name": "Смартфон Samsung Galaxy Z Fold6 1 ТБ",
+      "description": "Samsung Galaxy Z Fold6 – это складной смартфон с улучшенным дизайном, поддержкой S Pen, мощным процессором Snapdragon 8 Gen3, продвинутой камерой с алгоритмом ProVisual, длительным временем автономной работы и возможностями Galaxy AI.",
+      "price": "229990",
+      "url": "https://static.galaxystore.ru/upload/iblock/c63/0svi73q32iarn24z03vbek0xqn42izc6.jpg"
+    }
+  ]
+}
